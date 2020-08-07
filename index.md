@@ -12,7 +12,7 @@ Link to the [Shawn's Game ](https://www.roblox.com/games/5478445750/Stay-Charged
 
 Link to the [Kyle's Game ](https://codeshare.io/5R40oo)
 
-Link to the [Wyatt's Game ](https://www.roblox.com/games/5491720252/Place-Number)
+Link to the [Wyatt's Game ](https://www.roblox.com/games/5515821701/AwesomeBlueLeopards-Place-Number-30)
 
 Link to the [Natalie's Game ](https://codeshare.io/5R40oo)
 
