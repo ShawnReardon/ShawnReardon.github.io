@@ -14,6 +14,6 @@ Link to the [Kyle's Game ](https://codeshare.io/5R40oo)
 
 Link to the [Wyatt's Game ](https://www.roblox.com/games/5515821701/AwesomeBlueLeopards-Place-Number-30)
 
-Link to the [Natalie's Game ](https://codeshare.io/5R40oo)
+Link to the [Natalie's Game ](https://www.roblox.com/games/5498148155/natblomqvists-Place-Number-1)
 
 Link to the [Jun's Game ](https://www.roblox.com/games/5491723992/Teamlinea5s-Place-Number-1)
