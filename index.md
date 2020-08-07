@@ -8,12 +8,12 @@ Link to the [Roblox Game File](https://drive.google.com/file/d/1kwWCEo5MRjDH05u1
 
 Link to the [CodeShare](https://codeshare.io/5R40oo)
 
-Link to the [Shawn's Game: ](https://www.roblox.com/games/5478445750/Stay-Charged)
+Link to the [Shawn's Game ](https://www.roblox.com/games/5478445750/Stay-Charged)
 
-Link to the [Kyle's Game: ](https://codeshare.io/5R40oo)
+Link to the [Kyle's Game ](https://codeshare.io/5R40oo)
 
-Link to the [Wyatt's Game: ](https://codeshare.io/5R40oo)
+Link to the [Wyatt's Game ](https://www.roblox.com/games/5491720252/Place-Number)
 
-Link to the [Natalie's Game: ](https://codeshare.io/5R40oo)
+Link to the [Natalie's Game ](https://codeshare.io/5R40oo)
 
-Link to the [Jun's Game: ](https://codeshare.io/5R40oo)
+Link to the [Jun's Game ](https://www.roblox.com/games/5491723992/Teamlinea5s-Place-Number-1)
