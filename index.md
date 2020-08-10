@@ -10,3 +10,13 @@ Link to the [CodeShare](https://codeshare.io/5R40oo)
 
 Link to [Shawn's Game ](https://www.roblox.com/games/5478445750/Stay-Charged)
 
+Link to [Day 1 Slideshow ](https://docs.google.com/presentation/d/e/2PACX-1vTowheX9Jtswkif6fueE0m3d_NG8lLb6p3nsXyCp9LLkTpjUzZHbBPoItvrXgld2CT3_gOxKduft4z_/pub?start=false&loop=false&delayms=3000)
+
+Link to [Day 2 Slideshow ](https://docs.google.com/presentation/d/e/2PACX-1vRRb--CJNLJyG-Svc3Gx3K-8WtRVb-GDbrhnHuQi6nptVmnYDFXXq3joNi74mepUVbhXBdHHtgjUAXJ/pub?start=false&loop=false&delayms=3000)
+
+Link to [Day 3 Slideshow ](https://docs.google.com/presentation/d/e/2PACX-1vSjb1CuG1TQ_ykLUZtx__BOittCPepv9w3yR8KpeeM_U1Igy8cQr_-x2lcjaiRxkMei2tYTeciDkHJN/pub?start=false&loop=false&delayms=3000)
+
+Link to [Day 4 Slideshow ](https://docs.google.com/presentation/d/e/2PACX-1vRIO-KQ4yQFUr3-nVsXbqJP0KQ0Kztyk0_YOyGNVq8x3NV4XdtS9VvCEfRiXlpfzo4i8mcl5wWpBeQh/pub?start=false&loop=false&delayms=3000)
+
+
+
