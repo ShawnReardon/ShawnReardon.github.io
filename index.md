@@ -20,3 +20,6 @@ Link to [Day 4 Slideshow ](https://docs.google.com/presentation/d/e/2PACX-1vRIO-
 
 
 
+Link to [Shrink Script](https://drive.google.com/file/d/1jp1mqbl_bO439JnOIH3s7T_skR7E2EYB/view?usp=sharing)
+
+Link to [Repl](https://repl.it/@ShawnReardon/RobloxCamp)
