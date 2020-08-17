@@ -8,7 +8,7 @@
 
 <a href="https://repl.it/@ShawnReardon/VampirePizzaDirectory">Repl Pygame</a>
 
-Link to the [Python 3 Repl](https://repl.it/@ShawnReardon/PythonCampPY)
+Link to the test [Python 3 Repl](https://repl.it/@ShawnReardon/PythonCampPY)
 
 Link to the [CodeShare](https://codeshare.io/5R40oo)
 
