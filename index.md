@@ -1,6 +1,7 @@
 
 <details>
-<summary><h1>Python Camp</h1></summary>
+    <summary><h1>Python Camp</h1></summary>
+    
 <a href="https://repl.it/@ShawnReardon/PythonCampPY">Repl Python 3</a>
 
 <a href="https://codeshare.io/5R40oo">CodeShare</a>
