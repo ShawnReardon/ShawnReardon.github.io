@@ -1,9 +1,13 @@
 
-<details>
-    
-<summary><h1>Python Camp</h1></summary>
-<p>
-Link to the test [Python 3 Repl](https://repl.it/@ShawnReardon/PythonCampPY)
+
+<h1>Python Camp</h1>
+<a href="https://repl.it/@ShawnReardon/PythonCampPY">Repl Python 3</a>
+
+<a href="https://codeshare.io/5R40oo">CodeShare</a>
+
+<a href="https://repl.it/@ShawnReardon/VampirePizzaDirectory">Repl Pygame</a>
+
+Link to the [Python 3 Repl](https://repl.it/@ShawnReardon/PythonCampPY)
 
 Link to the [CodeShare](https://codeshare.io/5R40oo)
 
@@ -12,10 +16,6 @@ Link to [Vampire Game Repl ](https://repl.it/@ShawnReardon/VampirePizzaDirectory
 Link to [Vampire Slideshow ](https://docs.google.com/presentation/d/e/2PACX-1vQu6omYqIUe_eOli4P8P1e8eltbx66xMjEcRPI6zC4YG8b7fqrJffp_0MfQgrOAYw/pub?start=true&loop=false&delayms=60000)
 
 Link to [Other Slideshow ](https://docs.google.com/presentation/d/e/2PACX-1vTqqsl_3sZCDxCyPjnRFgwr-HnLzVV0X9iujQJv7rYcvjydVkoGRxoUsnHCyp31ajEzAL9tCCOTFfxn/pub?start=true&loop=false&delayms=60000)
-</p>
-</details>
-
-
 
 
 
