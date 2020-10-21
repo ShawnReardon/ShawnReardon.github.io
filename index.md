@@ -1,4 +1,10 @@
 
+
+
+Link to the [Subway Surfer Instructions](https://miro.com/app/board/o9J_khqQI1s=/)
+
+
+
 Link to the [Escape Room Game](https://drive.google.com/file/d/1vcQFLIEnHmxRLe7Y_qhs_RvrjqRlHx6t/view?usp=sharing)
 
 
